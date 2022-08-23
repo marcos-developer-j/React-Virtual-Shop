@@ -1,0 +1,11 @@
+import React from 'react'
+import '../styles/components/Footer.css'
+
+const Footer = () => (
+    <div className="Footer">
+        <p className="Footer-title">PlatziConf Merch</p>
+        <p className="footer-copy">Todos los Izquierdos Reservados</p>
+    </div>
+  )
+
+export default Footer
